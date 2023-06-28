@@ -1,6 +1,3 @@
-//https://www.geradorcpf.com/algoritmo_do_cpf.htm
-
-
 function varlidarCPF(cpf) {
 
     var strCpf = String(cpf).replace(/[^\d]/g, '')
@@ -70,6 +67,3 @@ function varlidarCPF(cpf) {
     }
     return true
 }
-
-//https://www.geradorcpf.com/algoritmo_do_cpf.htm
-//https://blog.betrybe.com/javascript/promises-javascript/
