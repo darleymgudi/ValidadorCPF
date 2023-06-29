@@ -1,1 +1,1 @@
-# ValidadorCPF
+# ValidadorCPF codificado em JavaScript
